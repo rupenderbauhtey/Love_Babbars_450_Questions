@@ -25,7 +25,6 @@ public class MoveAllNegatives {
 			}
 			i++;
 		}
-		System.out.println("Code Running");
 		for(int k=0; k<arr.length;k++)
 		{
 			System.out.println(arr[k]);
